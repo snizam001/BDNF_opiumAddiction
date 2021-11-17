@@ -4,5 +4,3 @@ The genotype file of the Drug addicted subjects and controls. Data file are in p
 
 
 ![Figure 1 - github](https://user-images.githubusercontent.com/28807444/142261838-adf89775-111a-41b1-9c98-cb44cf68efed.jpg)
-
-![Figure 1](https://user-images.githubusercontent.com/28807444/142261528-8ca2b2b1-acd5-4622-9710-7d27003bdbf5.jpg)
