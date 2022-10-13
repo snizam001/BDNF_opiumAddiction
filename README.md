@@ -5,7 +5,8 @@
 
 The genotype file of the Drug addicted subjects and controls. Data file are in plink format (https://zzz.bwh.harvard.edu/plink/data.shtml). The same data was used to find the genetic risk factors associated with the opium addiction in the North Indian population.
 
-citation: Unpublished
+https://doi.org/10.1016/j.humgen.2022.201111
+Citation: Anit et al, Human Gene 34 (2022) 201111
 
 
 
